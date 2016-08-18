@@ -1,0 +1,7 @@
+#Thu Aug 18 16:37:09 CST 2016
+base.0=/Users/augustinus/Desktop/PinkeNew/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_fda0d183d35898681ac1a10d65e83527da995429
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=/Users/augustinus/Desktop/PinkeNew/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_7855c2fd60b23d0e50fa02e8a023744cc3a7a563/classes.dex
+base.1=/Users/augustinus/Desktop/PinkeNew/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_7855c2fd60b23d0e50fa02e8a023744cc3a7a563
+file.0=/Users/augustinus/Desktop/PinkeNew/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_fda0d183d35898681ac1a10d65e83527da995429/classes.dex

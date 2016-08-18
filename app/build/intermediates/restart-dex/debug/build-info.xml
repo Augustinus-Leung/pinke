@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<instant-run
+    abi="x86,x86_64"
+    api-level="23"
+    density="xxhdpi"
+    format="8"
+    timestamp="226545042205002"
+    token="8247427324359547925"
+    verifier="MANIFEST_FILE_CHANGE" >
+
+    <task
+        name="javac"
+        duration="1886" />
+    <task
+        name="instant-run-dex"
+        duration="0" />
+    <task
+        name="instant-run-transform"
+        duration="343" />
+    <task
+        name="verifier"
+        duration="87" />
+
+    <artifact
+        location="/Users/augustinus/Desktop/PinkeNew/app/build/outputs/apk/app-debug.apk"
+        type="MAIN" />
+
+    <build
+        timestamp="226545042205002"
+        verifier="MANIFEST_FILE_CHANGE" >
+        <artifact
+            location="/Users/augustinus/Desktop/PinkeNew/app/build/outputs/apk/app-debug.apk"
+            type="MAIN" />
+    </build>
+
+</instant-run>
